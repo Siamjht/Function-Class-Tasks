@@ -1,3 +1,5 @@
+// random number guessing game.
+
 function randomGuess(num) {
     let randomNum = Math.floor((Math.random()) * 10);
     if (num > randomNum) {

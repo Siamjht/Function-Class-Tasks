@@ -1,3 +1,5 @@
+//Calculator operation using function
+
 function add(x, y) {
     return x + y;
 }

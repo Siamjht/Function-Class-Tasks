@@ -1,3 +1,5 @@
+// Taking first name from full name and set a comment
+
 function titleName(name) {
     let count = 0;
 

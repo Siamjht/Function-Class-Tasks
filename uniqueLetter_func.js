@@ -1,3 +1,5 @@
+// finding unique letters from given names
+
 function unqLetter(name) {
     let count = 0, flag = 0;
 

@@ -1,3 +1,4 @@
+//Star print at divisible by five position
 let starFivediv = function (num) {
     if (num % 5 == 0) {
         return "**";
